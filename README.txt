@@ -10,4 +10,4 @@ MODO NORMAL
 
 El juego se presentará de la misma manera que el modo desarrollador, sin embargo en vez de pedirle al usuario que color de ficha desea mover, el juego empezará directamente con el equipo rojo, para mover las fichas el programa lanza dos dados, en el momento que se saca 5 en los dados, la ficha seleccionada sale de la carcel. El programa irá ciclando turno entre los equipos.
 
-Para más información, observar el video en youtube, donde se explica más a detalle el funcionamiento del juego: ASKJDasjdkl
+Para más información, observar el video en youtube, donde se explica más a detalle el funcionamiento del juego: https://youtu.be/iSjRrdHnzwA
